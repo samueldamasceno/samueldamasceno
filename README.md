@@ -26,11 +26,11 @@
   <tr>
     <td valign="top" width="55%">
 
-### About me
-- Full stack dev
-- Graduated in Systems Analysis and Development at FIAP
-- I enjoy coding, building interfaces and APIs
-- Open to opportunities and cool projects
+### About me:
+- 💻 Full stack dev
+- 🎓 Graduated in Systems Analysis and Development at FIAP
+- 🛠️ I enjoy coding, building interfaces and APIs
+- 🚀 Open to opportunities and cool projects
 
     </td>
     <td valign="top" width="45%" align="center">
